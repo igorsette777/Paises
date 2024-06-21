@@ -1,0 +1,51 @@
+body{
+  background-color: #11114e;
+}
+
+h1{
+  color: aliceblue;
+  font-size: 50px;
+}
+
+h2{
+  color: #11114e;
+  font-size: 20px;
+}
+
+
+h3{
+  color: #11114e;
+  font-size: 20px;
+}
+
+p{
+  color: #11114e;
+  font-size: 20px;
+}
+
+.app-container {
+    padding: 20px;
+  }
+  
+  .lists-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .list {
+    flex: 1;
+    margin: 0 10px;
+    max-width: 45%;
+    background-color: aliceblue;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+  }
+
+  
